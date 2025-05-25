@@ -3,6 +3,10 @@ Technologies Used:
 1) HTML
 2) CSS
 3) JavaScript
+
+## Demo
+
+[TO-DO LIST LIVE WEBSITE](https://adityatrived.github.io/To-do-List/)
    
 - Built a responsive To-do list web app using HTML, CSS, and JavaScript, enabling efficient task management with features to add, delete, and mark tasks as completed.
 
